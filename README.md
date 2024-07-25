@@ -23,7 +23,7 @@ Welcome to the Cold Calling Assistant Bot project! This bot helps different comp
 ## Today's Task
 
 1. **Set Up Twilio**:
-   - Add a phone number.
+   - Add a phone number using this url : https://console.twilio.com/us1/develop/phone-numbers/manage/verified.
    - Start a call using the provided code in `main.py`.
    - Change the number inside the code to the one you added.
    - Get the audio file from the call the code is in main.py file.
