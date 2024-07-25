@@ -4,7 +4,7 @@
 We currently have 200 bots pre-ordered. Let’s get started on building this amazing tool!
 
 Welcome to the Cold Calling Assistant Bot project! This bot helps different companies set up their own customized cold-calling assistant. Here’s a simple overview of how to get started and what you need to do today.
-![screenshot](phone-calling-assitant.png)
+![Screenshot](phone-calling-assistant.png)
 ## How It Works
 
 1. **Call Setup** 📲
